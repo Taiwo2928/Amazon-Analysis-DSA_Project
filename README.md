@@ -16,11 +16,17 @@ My first project on Excel workbook Analysis
       3. Extract Product_category and Product_type from Category, Review_new from Review_id
       4. From the cleaned data set, calculated tables are derived such as
 
-       For Calculated Price Range
-       <pre>
-        ```excel=IF(F2<=199, "<£200",IF(F2<=499, "£200-£499",IF(F2<=1999, "£500-£1,999", IF(F2<=9999, "£2,000-£9,999",IF(F2<=19999, "£10,000-£19,999",IF(F2<=49999, "£20,000-£49,999", IF(F2<=99999, "£50,000-£99,999", IF(F2>1000000, ">£1,000,000"))))))))```
-       </pre>
-   
+       *For Calculated Price Range*:
+             <pre>
+            ```excel=IF(F2<=199, "<£200",IF(F2<=499, "£200-£499",
+             IF(F2<=1999, "£500-£1,999", IF(F2<=9999, "£2,000-£9,999",
+             IF(F2<=19999, "£10,000-£19,999",IF(F2<=49999, "£20,000-£49,999", 
+             IF(F2<=99999, "£50,000-£99,999", IF(F2>1000000, ">£1,000,000")))))))) ```
+         </pre>
+
+        For Combined Score = rating * rating_count to calculate top 5 products by number of review and rating
+                          `=H2 * LOG(I2 + 1)`
+     
    3. **Explorative Data Analysis**
           This is where i explored the data to answer required questions
   
