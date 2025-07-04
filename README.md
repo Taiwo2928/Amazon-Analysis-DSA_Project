@@ -26,7 +26,7 @@ My first project on Excel workbook Analysis
 
         *For Combined Score = rating * rating_count to calculate top 5 products by number of review and rating*
 
-                       ``` =H2 * LOG(I2 + 1) ```
+                        =H2 * LOG(I2 + 1) 
 
         *For Calculated Rating Distribution"*
                 <pre>
@@ -37,7 +37,7 @@ My first project on Excel workbook Analysis
                 
      *For calculated count of products with discount greater than 50%*
 
-            ```=COUNTIF(G2:G1390, ">=50%")```
+                      =COUNTIF(G2:G1390, ">=50%")
      
    3. **Explorative Data Analysis**
           This is where i explored the data to answer required questions
