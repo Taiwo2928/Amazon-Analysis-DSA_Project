@@ -11,10 +11,11 @@ My first project on Excel workbook Analysis
       - Microsoft Excel; Pivot Tables, Calculated Tables, and Visualization on Excel Dashboard
  ###### Steps Involved
   1. **Data Cleaning and formating**
-          1. Reduce the data set by deleting unnecessary/unimportant columns and removing duplicates.
-          2. Change datatype
-          3. Extract Product_category and Product_type from Category, Review_new from Review_id
-          4. From the cleaned data set, calculated tables are derived
+      1. Reduce the data set by deleting unnecessary/unimportant columns and removing duplicates.
+      2. Change datatype
+      3. Extract Product_category and Product_type from Category, Review_new from Review_id
+      4. From the cleaned data set, calculated tables are derived
+   
    2. **Explorative Data Analysis**
           This is where i explored the data to answer required questions
   
