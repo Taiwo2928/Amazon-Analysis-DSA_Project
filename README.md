@@ -25,7 +25,8 @@ My first project on Excel workbook Analysis
          </pre>
 
         For Combined Score = rating * rating_count to calculate top 5 products by number of review and rating
-                          `=H2 * LOG(I2 + 1)`
+
+                       `=H2 * LOG(I2 + 1)`
      
    3. **Explorative Data Analysis**
           This is where i explored the data to answer required questions
