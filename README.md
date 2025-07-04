@@ -14,7 +14,7 @@ My first project on Excel workbook Analysis
       1. Reduce the data set by deleting unnecessary/unimportant columns and removing duplicates.
       2. Change datatype
       3. Extract Product_category and Product_type from Category, Review_new from Review_id
-      4. From the cleaned data set, calculated tables are derived such as
+      4. From the cleaned data set, calculated tables are derived;
 
        *For Calculated Price Range*:
              <pre>
@@ -24,9 +24,20 @@ My first project on Excel workbook Analysis
              IF(F2<=99999, "£50,000-£99,999", IF(F2>1000000, ">£1,000,000")))))))) ```
          </pre>
 
-        For Combined Score = rating * rating_count to calculate top 5 products by number of review and rating
+        *For Combined Score = rating * rating_count to calculate top 5 products by number of review and rating*
 
-                       `=H2 * LOG(I2 + 1)`
+                       ` =H2 * LOG(I2 + 1) `
+
+        *For Calculated Rating Distribution"*
+                <pre>
+                ``` excel=IF(H2<=2, "<=2.0",IF(H2<=2.4, "2.1-2.4",
+                    IF(H2<=3, "2.5-3.0", IF(H2<=3.4, "3.1-3.4",
+                    IF(H2<=4, "3.5-4.0",IF(H2<=4.4, "4.1-4.4", IF(H2<=5, "4.5-5.0"))))))) ```
+                </pre>
+
+         _For calculated count of products with discount greater than 50%_
+
+            `excel=COUNTIF(G2:G1390, ">=50%")`
      
    3. **Explorative Data Analysis**
           This is where i explored the data to answer required questions
