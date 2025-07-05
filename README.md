@@ -52,8 +52,7 @@ My first project on Excel workbook Analysis
           *Files Included*
            `Amazon case study-Project New.xlsx`
       
-           https://github.com/Taiwo2928/Amazon-Analysis-DSA_Project/blob/main/Excel%20Dashboard.JPG
-      
+        
       
       
   
