@@ -4,14 +4,14 @@ My first project on Excel workbook Analysis
  ## Project Topic: Amazon Product Review Analysis
  ### Project Overview
  I was given an Amazon Product excel data set of 1,465 rows and 16 columns.
- #### Aim 
+ ### Aim 
  Analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
  
- ##### Mode of Analysis
+ ## Mode of Analysis
       - Microsoft Excel; Pivot Tables, Calculated Tables, and Visualization on Excel Dashboard
- ###### Steps Involved
+ ### Steps Involved
   1. **Data Cleaning and formating**
-      1. Reduce the data set by deleting unnecessary/unimportant columns and removing duplicates.
+      1. Reduce the data set to 1,389 rows with 16 columns by deleting unnecessary/unimportant columns and removing duplicates
       2. Change datatype
       3. Extract Product_category and Product_type from Category, Review_new from Review_id
       4. From the cleaned data set, calculated tables are derived;
@@ -59,10 +59,12 @@ My first project on Excel workbook Analysis
         ![image](https://github.com/user-attachments/assets/5634429a-bd59-460c-bded-cf26e2a5409e)
         ![image](https://github.com/user-attachments/assets/9a7ed91b-ac70-423d-9bcd-7e5e8136b96d)
 
+   3.  **Insights fromn Data**
+             From my analysis, the level of discount does not influence the product rating by customers.
       
+          `relationship between rating and level of discount= 0.119018491`
+![image](https://github.com/user-attachments/assets/4ec21a5d-577c-4a5f-85f4-9a4aa93ac2cb)
 
-      
-      
   
       
 
