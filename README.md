@@ -122,9 +122,8 @@ Revenue-Driven Focus:
 Focus ad budgets on Electronics, Computers & Accessories, and Home & Kitchen, which account for ~125B in potential revenue.
 These categories are clearly high-margin and high-volume.
 
-👥 Customer Engagement Insights
-Engage Low-Review Products:
-311 products have <1,000 reviews—these are good targets for customer review campaigns, e.g., incentives for leaving reviews.
+#### 👥 Customer Engagement Insights
+         1. Engage Low-Review Products: 311 products have <1,000 reviews—these are good targets for customer review campaigns, e.g., incentives for leaving reviews.
 Review-Based Recommendations:
 Promote products with high ratings and many reviews, such as:
 HDMI Cables (24.77 average rating * # of reviews)
