@@ -35,9 +35,17 @@ My first project on Excel workbook Analysis
                     IF(H2<=4, "3.5-4.0",IF(H2<=4.4, "4.1-4.4", IF(H2<=5, "4.5-5.0"))))))) ```
                 </pre>
                 
-     *For calculated count of products with discount greater than 50%*
+        *For calculated count of products with discount greater than 50%*
 
                       =COUNTIF(G2:G1390, ">=50%")
+     
+        *For calculated products with number of reviews <1000*
+
+                     =COUNTIF(I2:I1390,"<1000")
+
+        *To calculate relationship between Rating and Level of Discount*
+
+                       =CORREL(H2:H1390,E2:E1390)
      
    3. **Explorative Data Analysis**
           This is where i explored the data to answer required questions
