@@ -62,12 +62,12 @@ My first project on Excel workbook Analysis
 
    3.  **Insights from Data**
 
-        #### Product Improvement Insights
-             1. Low Ratings in Some Categories: Products rated below 3.5 (totaling over 100 items) may need quality improvements.
-                  1. Focus on analyzing user feedback for products in these buckets and optimize features or quality.
-             2. Skewed Discounting: Categories like Toys & Games and Office Products have 0%–6% discount but may still underperform in sales.
-                  1. Consider offering targeted promotions or bundle deals in these categories to test responsiveness.
-             3. Price Optimization: High actual vs discounted price gaps in Electronics and Home & Kitchen suggest room for pricing strategy review or bundling improvements.
+   #### Product Improvement Insights
+        1. Low Ratings in Some Categories: Products rated below 3.5 (totaling over 100 items) may need quality improvements.
+            1. Focus on analyzing user feedback for products in these buckets and optimize features or quality.
+        2. Skewed Discounting: Categories like Toys & Games and Office Products have 0%–6% discount but may still underperform in sales.
+            1. Consider offering targeted promotions or bundle deals in these categories to test responsiveness.
+        3. Price Optimization: High actual vs discounted price gaps in Electronics and Home & Kitchen suggest room for pricing strategy review or bundling improvements.
              4. High Review but Low Rating Products: For example, USB Cables have 2.75M reviews, but are not in top rating buckets.
                  1. Analyze product quality or delivery issues that might be lowering ratings despite high engagement.
            
