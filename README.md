@@ -49,11 +49,15 @@ My first project on Excel workbook Analysis
      
    2. **Explorative Data Analysis**
           This is where i explored the data to derive my analysis.
-          *Files Included*
+
+      *Files Included*
            `Amazon case study-Project New.xlsx`
-      
+
+       ##### Dashboard
         ![image](https://github.com/user-attachments/assets/e904e763-2c97-45bd-b6df-518271fccf10)
+       ##### Pivot Tables
         ![image](https://github.com/user-attachments/assets/5634429a-bd59-460c-bded-cf26e2a5409e)
+        ![image](https://github.com/user-attachments/assets/9a7ed91b-ac70-423d-9bcd-7e5e8136b96d)
 
       
 
