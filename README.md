@@ -52,7 +52,9 @@ My first project on Excel workbook Analysis
           *Files Included*
            `Amazon case study-Project New.xlsx`
       
-        
+        ![image](https://github.com/user-attachments/assets/e904e763-2c97-45bd-b6df-518271fccf10)
+      
+
       
       
   
