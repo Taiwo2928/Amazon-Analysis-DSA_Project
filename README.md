@@ -60,7 +60,8 @@ My first project on Excel workbook Analysis
         ![image](https://github.com/user-attachments/assets/9a7ed91b-ac70-423d-9bcd-7e5e8136b96d)
 
    3.  **Insights fromn Data**
-             From my analysis, the level of discount does not influence the product rating by customers.
+         How does the rating relates to the levelof discount?
+         From my analysis, there is no correlation as the level of discount does not influence the product rating by customers.
       
           `relationship between rating and level of discount= 0.119018491`
 
