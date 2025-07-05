@@ -53,6 +53,8 @@ My first project on Excel workbook Analysis
            `Amazon case study-Project New.xlsx`
       
         ![image](https://github.com/user-attachments/assets/e904e763-2c97-45bd-b6df-518271fccf10)
+        ![image](https://github.com/user-attachments/assets/5634429a-bd59-460c-bded-cf26e2a5409e)
+
       
 
       
