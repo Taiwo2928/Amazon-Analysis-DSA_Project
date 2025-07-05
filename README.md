@@ -47,11 +47,12 @@ My first project on Excel workbook Analysis
 
                        =CORREL(H2:H1390,E2:E1390)
      
-   3. **Explorative Data Analysis**
-          This is where i explored the data to answer required questions
+   2. **Explorative Data Analysis**
+          This is where i explored the data to derive my analysis.
+          *Files Included*
+           `Amazon case study-Project New.xlsx`
   
-      ##### Files Included
-        `Amazon case study-Project New.xlsx`
+      
 
           
 
