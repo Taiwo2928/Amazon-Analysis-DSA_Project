@@ -97,11 +97,11 @@ My first project on Excel workbook Analysis
                   Tip: Tailor marketing messages toward value-conscious buyers, emphasizing durability, affordability, and customer satisfaction.
 
         
-Product Improvement Insights
-Low Ratings in Some Categories:
-Products rated below 3.5 (totaling over 100 items) may need quality improvements.
-Focus on analyzing user feedback for products in these buckets and optimize features or quality.
-Skewed Discounting:
+   #### Product Improvement Insights
+        1. Low Ratings in Some Categories:
+           1. Products rated below 3.5 (totaling over 100 items) may need quality improvements.
+           2. Focus on analyzing user feedback for products in these buckets and optimize features or quality.
+        2. Skewed Discounting:
 Categories like Toys & Games and Office Products have 0%–6% discount but may still underperform in sales.
 Consider offering targeted promotions or bundle deals in these categories to test responsiveness.
 Price Optimization:
