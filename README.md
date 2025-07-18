@@ -20,20 +20,21 @@ My first project on Excel workbook Analysis
 
        *For Calculated Price Range*:
         
-         <pre>``` =IF(F2<=199, "<£200",IF(F2<=499, "£200-£499",
+             =IF(F2<=199, "<£200",IF(F2<=499, "£200-£499",
              IF(F2<=1999, "£500-£1,999", IF(F2<=9999, "£2,000-£9,999",
              IF(F2<=19999, "£10,000-£19,999",IF(F2<=49999, "£20,000-£49,999", 
-             IF(F2<=99999, "£50,000-£99,999", IF(F2>1000000, ">£1,000,000")))))))) ```
-       </pre>
+             IF(F2<=99999, "£50,000-£99,999", IF(F2>1000000, ">£1,000,000")))))))) 
+       
       *For Combined Score = rating * rating_count, to calculate top 5 products by number of review and rating*
 
                         =H2 * LOG(I2 + 1) 
 
         *For Calculated Rating Distribution"*
 
-                ``` =IF(H2<=2, "<=2.0",IF(H2<=2.4, "2.1-2.4",
+           <pre>     ``` =IF(H2<=2, "<=2.0",IF(H2<=2.4, "2.1-2.4",
                     IF(H2<=3, "2.5-3.0", IF(H2<=3.4, "3.1-3.4",
                     IF(H2<=4, "3.5-4.0",IF(H2<=4.4, "4.1-4.4", IF(H2<=5, "4.5-5.0"))))))) ```
+     </pre>
                 
         *For calculated count of products with discount greater than 50%*
 
