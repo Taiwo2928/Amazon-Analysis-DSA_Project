@@ -20,7 +20,7 @@ My first project on Excel workbook Analysis
 
        *For Calculated Price Range*:
            
-            ```excel
+            ```plaintext
              =IF(F2<=199, "<£200",IF(F2<=499, "£200-£499",
              IF(F2<=1999, "£500-£1,999", IF(F2<=9999, "£2,000-£9,999",
              IF(F2<=19999, "£10,000-£19,999",IF(F2<=49999, "£20,000-£49,999", 
