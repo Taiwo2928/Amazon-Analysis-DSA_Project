@@ -31,10 +31,9 @@ My first project on Excel workbook Analysis
 
         *For Calculated Rating Distribution"*
 
-           <pre>     ``` =IF(H2<=2, "<=2.0",IF(H2<=2.4, "2.1-2.4",
+                   =IF(H2<=2, "<=2.0",IF(H2<=2.4, "2.1-2.4",
                     IF(H2<=3, "2.5-3.0", IF(H2<=3.4, "3.1-3.4",
-                    IF(H2<=4, "3.5-4.0",IF(H2<=4.4, "4.1-4.4", IF(H2<=5, "4.5-5.0"))))))) ```
-     </pre>
+                    IF(H2<=4, "3.5-4.0",IF(H2<=4.4, "4.1-4.4", IF(H2<=5, "4.5-5.0"))))))) 
                 
         *For calculated count of products with discount greater than 50%*
 
