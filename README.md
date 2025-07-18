@@ -19,12 +19,12 @@ My first project on Excel workbook Analysis
       4. From the cleaned data set, calculated tables are derived;
 
        *For Calculated Price Range*:
-           
-             =IF(F2<=199, "<£200",IF(F2<=499, "£200-£499",
+           <pre>
+         ```    =IF(F2<=199, "<£200",IF(F2<=499, "£200-£499",
              IF(F2<=1999, "£500-£1,999", IF(F2<=9999, "£2,000-£9,999",
              IF(F2<=19999, "£10,000-£19,999",IF(F2<=49999, "£20,000-£49,999", 
-             IF(F2<=99999, "£50,000-£99,999", IF(F2>1000000, ">£1,000,000"))))))))
-
+             IF(F2<=99999, "£50,000-£99,999", IF(F2>1000000, ">£1,000,000")))))))) ```
+        </prev>
 
       *For Combined Score = rating * rating_count to calculate top 5 products by number of review and rating*
 
