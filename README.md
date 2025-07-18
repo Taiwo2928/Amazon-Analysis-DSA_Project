@@ -19,14 +19,15 @@ My first project on Excel workbook Analysis
       4. From the cleaned data set, calculated tables are derived;
 
        *For Calculated Price Range*:
-             <pre>
-            ```excel=IF(F2<=199, "<£200",IF(F2<=499, "£200-£499",
+           
+            ```excel
+             =IF(F2<=199, "<£200",IF(F2<=499, "£200-£499",
              IF(F2<=1999, "£500-£1,999", IF(F2<=9999, "£2,000-£9,999",
              IF(F2<=19999, "£10,000-£19,999",IF(F2<=49999, "£20,000-£49,999", 
-             IF(F2<=99999, "£50,000-£99,999", IF(F2>1000000, ">£1,000,000")))))))) ```
-         </pre>
+             IF(F2<=99999, "£50,000-£99,999", IF(F2>1000000, ">£1,000,000"))))))))
+     ```
 
-        *For Combined Score = rating * rating_count to calculate top 5 products by number of review and rating*
+      *For Combined Score = rating * rating_count to calculate top 5 products by number of review and rating*
 
                         =H2 * LOG(I2 + 1) 
 
@@ -49,7 +50,7 @@ My first project on Excel workbook Analysis
 
                        =CORREL(H2:H1390,E2:E1390)
      
-   2. **Explorative Data Analysis**
+   3. **Explorative Data Analysis**
           This is where i explored the data to derive my analysis.
 
       *Files Included*
@@ -61,7 +62,7 @@ My first project on Excel workbook Analysis
         ![image](https://github.com/user-attachments/assets/5634429a-bd59-460c-bded-cf26e2a5409e)
         ![image](https://github.com/user-attachments/assets/9a7ed91b-ac70-423d-9bcd-7e5e8136b96d)
 
-   3.  **Insights from Data**
+   4.  **Insights from Data**
 
    #### Product Improvement Insights
         1. Low Ratings in Some Categories: 
